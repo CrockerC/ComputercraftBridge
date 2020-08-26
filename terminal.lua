@@ -1,3 +1,4 @@
+-- credit to the SHA-256 goes to gravityscore at https://pastebin.com/gsFrNjbt
 
 function main()
 	rednet.open("bottom")
